@@ -1,0 +1,8 @@
+{
+  "name": "gemini-chatbot-webapp",
+  "version": "1.0.0",
+  "description": "A responsive Gemini-powered chatbot web application for Web Development Lab Experiment 10.",
+  "main": "src/server.js",
+  "scripts": { "start": "node src/server.js" },
+  "dependencies": { "@google/genai": "^1.0.0", "dotenv": "^16.4.7", "express": "^4.21.2" }
+}
